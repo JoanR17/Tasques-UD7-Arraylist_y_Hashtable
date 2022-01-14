@@ -62,7 +62,7 @@ public class NotaMediaApp {
 		{
 			try 
 			{
-				x = Integer.parseInt(JOptionPane.showInputDialog("Elige una opción(1-2):\n1. Insertar notas Alumno nuevo. 2. Salir"));
+				x = Integer.parseInt(JOptionPane.showInputDialog("Elige una opción(1-2):\n1. Insertar notas Alumno nuevo. \n2. Salir\n\n"));
 			} 
 			catch (Exception e) 
 			{
